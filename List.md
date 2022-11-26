@@ -1,4 +1,4 @@
-**THE OFFICIAL TRIA.OS DIFFICULTY LIST**
+> **THE OFFICIAL TRIA.OS DIFFICULTY LIST**
 
 1. **(BROKEN) Endzone** by Nightlife Devs [2734427873] [https://www.youtube.com/watch?v=UB4tNo2ShjM] 
 2. **Layers** by Enszo [8559494055/layers] [https://www.youtube.com/watch?v=Yja6SpZVU_U]
